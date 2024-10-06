@@ -1,0 +1,2 @@
+asar.exe "C:\Users\thedy\OneDrive\Documents\SNES\11 Exit Practice ROM\Sprite Status Bar test\SpriteStatusBar\ssb.asm" "C:\Users\thedy\OneDrive\Documents\SNES\11 Exit Practice ROM\Sprite Status Bar test\practice.smc"
+@pause
